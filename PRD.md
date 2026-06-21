@@ -13,7 +13,7 @@ A unified software platform to manage the full lifecycle of an entertainment bus
 
 ---
 
-## Module 1: Client Acquisition & Business Development
+## Epic 1: Client Acquisition & Business Development
 
 **Goal:** Increase the volume and quality of inbound leads by systematizing outreach, referrals, and follow-up that currently happen inconsistently or not at all.
 
@@ -45,7 +45,7 @@ All inbound leads shall be tagged by source (word of mouth, Gig Salad, social, c
 
 ---
 
-## Module 2: Deal Closing & Event Pre-Planning
+## Epic 2: Deal Closing & Event Pre-Planning
 
 **Goal:** Streamline the decision-making process for evaluating new opportunities and automate the logistical groundwork before a deal is finalized.
 
@@ -82,7 +82,7 @@ The system shall maintain a modular contract template library with:
 
 ---
 
-## Module 3: Performers & Production
+## Epic 3: Performers & Production
 
 **Goal:** Ensure the right performers and production elements are identified, confirmed, and fully prepared by event day — starting as early as the lead stage.
 
@@ -126,7 +126,7 @@ For each event, the system shall generate a production checklist covering:
 
 ---
 
-## Module 4: Promotion
+## Epic 4: Promotion
 
 **Goal:** Build a consistent promotional presence that currently does not exist — both for general brand awareness and for individual event marketing.
 
@@ -188,7 +188,4 @@ Users shall be able to export key data (client list, song database, contracts, p
 
 ## Open Questions
 
-1. Which third-party booking platforms should be prioritized for integration in v1?
-2. What contract template(s) should seed the library at launch?
-3. Is chart creation (REQ-3.4) a must-have for v1 or a later milestone?
-4. Should social publishing be native or routed through an existing tool (e.g., Buffer, Later)?
+To be added as Eric and Steven works through it.
